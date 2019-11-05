@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    background-color: #83bf22;
+}
+p{ 
+  font-family: fantasy,sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+h1{ 
+   font-family: cursive,sans-serif;
+  font-size: 80px;
+  text-align: center;
+}
+a{ 
+  font-family: Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color:crimson;
+}
